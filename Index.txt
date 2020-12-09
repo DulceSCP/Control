@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Redes Industiales¡ </title>
+</head>
+<center><h1> "Bienvenido a "WIRELESS CONTROLLER"</h1></center>
+
+
+<body bgcolor="#123056" text="#dff7ca"> 
+<center><table width="950"><tr><td>  
+<a href="teamwork.html">  
+<pre><center> <img src="menu/equipo.jpg"></a>                         <a href="proyect.html"><img src="menu/proyect.jpg" height = "130"> </center></pre>8 </a> 
+
+
+<center> <table border ="1"width="80%"bgcolor="#2e500c">
+<tr>
+<td colspan="2"> <p> <h2>¿Para que sirve una red?</h2></P> </td>
+
+</tr>
+
+<tr>
+<td><p>Una red informática nos permite utilizar una única conexión a internet en varios ordenadores,<p>
+ compartir impresora y otros periféricos, </p>
+enviar y recibir mensajes y pasar archivos a otros ordenadores sin necesidad de un lápiz de memoria, 
+cd u otro elemento.</p></td>
+<td> 
+<img src="imagenes/red-informatica.jpg"height = "200"> </td>
+</tr>
+</table> </center>
+<center>
+<a href="teamwork.html">teamwork</a>-
+<a href="proyect.html">proyect</a>-
+</center>
+</td></tr></table></center>
+</body>
+</html>
